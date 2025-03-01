@@ -79,7 +79,7 @@ body {
 .ig {
     width: 200px;
     height: 200px;
-    background-image: url(../Image/ribbon.png);
+    background-image: url(ribbon.png);
     background-size: 200px;
     background-repeat: no-repeat;
     display: inline-block;
@@ -118,7 +118,7 @@ body {
 
 .hero {
     height: 420px;
-    background-image: url(../Aset/Image/hero.jpg) ;
+    background-image: url(hero.jpg) ;
     background-size: cover;
     background-position: 0 -200px;
     border-top: 5px solid rgb(23, 123, 118) ;
